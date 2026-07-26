@@ -1,1 +1,0 @@
-import{E as e,H as t,T as n,b as r,dt as i}from"../chunks/Cfe96GQD.js";import"../chunks/BUSsnixt.js";var a=i({prerender:()=>!0,ssr:()=>!1,trailingSlash:()=>o}),o=`always`;function s(i,a){var o=e();r(t(o),()=>a.children),n(i,o)}export{s as component,a as universal};
