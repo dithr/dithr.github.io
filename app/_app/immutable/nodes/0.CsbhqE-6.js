@@ -1,1 +1,0 @@
-import{D as e,O as t,W as n,ht as r,x as i}from"../chunks/Dtupe1cL.js";import"../chunks/DP-PsRoe.js";var a=r({prerender:()=>!0,ssr:()=>!1,trailingSlash:()=>o}),o=`always`;function s(r,a){var o=t();i(n(o),()=>a.children),e(r,o)}export{s as component,a as universal};
